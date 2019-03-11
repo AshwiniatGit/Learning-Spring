@@ -1,0 +1,4 @@
+EnableTransactionManagement - to implicitly enable transaction management for commit & rollback	
+ComponentScans - to find out the all classes which are annoted withh the spring mvc or spring annotations
+EnableWebMvc - to enable spring mvc based applications
+WebMvcConfigurerAdapter - for getting the VR(view resolver), for validations 
